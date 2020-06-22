@@ -8,6 +8,9 @@ tmp_storage/MaNGA_star_forming_spaxels_data_v3.0.dat
 tmp_storage/MaNGA_spaxel.v3.0.pd.pkl
 tmp_storage/MaNGA_exp_metal_spaxel.v3.0.pd.pkl
 
+# notebook
+.ipynb_checkpoints/
+.git/
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
